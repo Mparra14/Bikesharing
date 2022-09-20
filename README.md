@@ -6,7 +6,8 @@ In this project, we were tasked with creating a business proposal to a potential
 
 ## Results:
 
-[checked_out_bikes]()
+[checked_out_bikes](https://github.com/Mparra14/Bikesharing/blob/main/Resources/Checkout%20time%20.png)
+
 In the table above we are able to see the amount of rides and the duration of the rides themeselves. It can be seen that the majority of customers that are renting Citibank bikes are only renting them for about 5 minutes, which means that they are using them only for short distances. Even though there are traveling short distances the amount of bikes checked out for these distances is significantly high. This is to be seen since NYC is divided by blocks and people tend to get to their destination much faster do to their geographical infrastructure. 
 
 
