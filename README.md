@@ -1,3 +1,3 @@
 # Bikesharing
-[link to dashboard](https://public.tableau.com/shared/DYP39MPT3?:display_count=n&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/app/profile/maria2059/viz/NYC_CITIBIKE_CHALLENGE/Story1)
 
