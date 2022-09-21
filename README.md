@@ -22,18 +22,24 @@ This table shows which hour and which days have the most riders using the bikes.
 
 Using the same heat map data from the graph above, we were able to distribute this data to differentiate between genders. As we have seen previously, males have the most bikes checked out unlike females. The darker regions are still seen in the same hours at 8 AM and between 5-6 PM. This type of trend can be explained that possibly females may feel safer in other transportation methods, or the unknowns can also be unclassiefied females. 
 
-![user_trips_by_genders]()
+![user_trips_by_genders](https://github.com/Mparra14/Bikesharing/blob/main/Resources/User%20types%20by%20weekday.png)
 
 The table above shows yet another heat map, but the information that is gathered is divided by genders, and also by the type of users. There are two types, subscribers and regular customers. Looking at the graph we can see that again males have a higher bike usage than females, this also shows that subscribers are the highest users specifically male subscribers. 
 
-![]()
+![user_types]()
 
-![]()
+This pie chart shows the division of the type of users that are checking out the bikes, the majority as you can see in the orange regions are the subscribers and the blue section is the just the customers. As we have seen previously, the highest amount of users of the Citibank bikes are the subscribers. 
 
+![peak_hours]()
+
+In this last graph, we can see a horizontal bar graph that shows the hours that have the most users checking out bikes and we see a clearer view of which hour is the most favored by users, and is clear that the majority uses the bike at 5 PM. We had already seen this trend in the graphs above, but we are able to visualize the usage better using this bar graph.
 
 
 
 ## Summary: 
 
+Having looked at the data from Citibank in NYC, we would have to find simalarities in both of thes cities in order ,
+avarage distance between stations
+Looking to see how likely regular customers are to become subscribers
 
 
