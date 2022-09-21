@@ -18,11 +18,13 @@ In this table the line graph is distrubuted by gender and it shows which gender 
 
 This table shows which hour and which days have the most riders using the bikes. In this visualization we aren't using a normal graph, we are using a heat map in which the darker sections shows a higher amount of riders using the bikes, while the lighter areas show that least amount of riders. Looking at the heat map, we can see that the times that the bikes are highly used is 5-6 PM and also 8 AM, this is mostly seen on weekdays.This trend is predictable since this are times that riders could be using the bike to get to work or get home from work. 
 
-![Trips_by_gender]()
+![Trips_by_gender](https://github.com/Mparra14/Bikesharing/blob/main/Resources/trips%20by%20weekday%20by%20gender%20.png)
 
 Using the same heat map data from the graph above, we were able to distribute this data to differentiate between genders. As we have seen previously, males have the most bikes checked out unlike females. The darker regions are still seen in the same hours at 8 AM and between 5-6 PM. This type of trend can be explained that possibly females may feel safer in other transportation methods, or the unknowns can also be unclassiefied females. 
 
-![]()
+![user_trips_by_genders]()
+
+The table above shows yet another heat map, but the information that is gathered is divided by genders, and also by the type of users. There are two types, subscribers and regular customers. Looking at the graph we can see that again males have a higher bike usage than females, this also shows that subscribers are the highest users specifically male subscribers. 
 
 ![]()
 
