@@ -26,7 +26,7 @@ Using the same heat map data from the graph above, we were able to distribute th
 
 The table above shows yet another heat map, but the information that is gathered is divided by genders, and also by the type of users. There are two types, subscribers and regular customers. Looking at the graph we can see that again males have a higher bike usage than females, this also shows that subscribers are the highest users specifically male subscribers. 
 
-![user_types]()
+![user_types](https://github.com/Mparra14/Bikesharing/blob/main/Resources/customers.png)
 
 This pie chart shows the division of the type of users that are checking out the bikes, the majority as you can see in the orange regions are the subscribers and the blue section is the just the customers. As we have seen previously, the highest amount of users of the Citibank bikes are the subscribers. 
 
